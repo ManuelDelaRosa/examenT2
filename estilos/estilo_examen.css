@@ -1,0 +1,288 @@
+.grad1{
+	/*background-color:  #f7f7f7 ;*/
+	 background-image: linear-gradient( #f7f7f7, #dfe3ee);
+	 padding:  0px, 0px,0px,0px;
+	 margin: 0px, 0px,0px,0px;
+
+	}
+
+
+.menu_face {
+	/*border: 1px solid black;*/
+	list-style: none;
+	background-color: #3b5998;
+	margin: 0 auto ;
+	border: 0px;
+	padding-top: 20px;
+	padding-left: 150px;
+	
+	min-height: 70%;
+	 
+	
+}
+
+#etiqueta{
+	color: white;
+	padding-left: 20px;
+}
+
+
+#caja{
+	margin-left: 60px;
+}
+
+#olvidaste{
+	/*text-decoration: none;*/
+	color: white;
+	padding-left: 210px;
+}
+
+a:hover{
+	text-decoration:underline black 1px;
+}
+
+#inSe{
+	color: white;
+}
+
+#inicio_Sesion{
+	
+	min-height: 50%;
+	
+	padding-right: 150px;
+}
+
+#botonIn{
+	background-color: #2E4172;
+	color: white;
+	height: 20px;
+	width: 100px;
+	font-weight: bold;
+	font-family: Arial;
+	font-size: 12px;
+	border: 0px;
+	cursor: pointer;
+}
+
+.izquierdo{
+
+	
+	/*background-color: red;*/
+	height: 560px;
+	 width: 55%;
+	 display: inline-block;
+	 vertical-align: top;
+	 
+	min-height: 40%;
+	 
+	/* display: inline;*/
+}
+
+.mapa{
+	height: 200px;
+	 width: 65%;
+	 padding-left: 175px;
+
+	min-height: 40%;
+}
+
+.parrafo{
+	margin: 0px;
+	font-size: 25px;
+	padding-left: 150px;
+	font-family: calibri;
+}
+#parraf{
+	padding-top: 45px;
+}
+
+
+
+
+.derecho{
+	margin: 0 auto;
+	/*background-color: blue;*/
+	height: 560px;
+	 width: 44%;
+	display: inline-block;
+	vertical-align: top;
+	
+	min-height: 35%;
+	/*display: inline;*/
+}
+
+
+#par{
+	margin: 0px;
+	font-weight: bold;
+	padding-top: 20px;
+	font-size: 40px;
+	font-family: calibri;
+}
+
+#esGratis{
+	margin: 0px;
+	padding-top: 5px;
+	font-size: 20px;
+	font-family: Arial;
+}
+
+#formPa{
+	padding-top: 20px;
+}
+
+#cNom{
+	width: 200px;
+	height: 30px;
+	border-radius: 6px;
+	border: 1px;
+}
+
+#cApe{
+	width: 200px;
+	height: 30px;
+	margin-left: 10px;
+	border-radius: 6px;
+	border: 1px;
+
+}
+
+::placeholder {
+    font-size: 18px;
+}
+
+
+#cTel{
+	width: 420px;
+	height: 30px;
+	border-radius: 6px;
+	margin-top: 8px;
+	border: 1px;
+
+}
+
+#cConN{
+	width: 420px;
+	height: 30px;
+	border-radius: 6px;
+	margin-top: 8px;
+	border: 1px;
+
+}
+
+
+#fechaNa{
+	margin: 0px;
+	padding-top: 25px;
+	font-size: 20px;
+	font-family: Arial;
+}
+
+#selD{
+	
+	width:50px;
+	height: 30px;
+	font-size: 15px;
+}
+
+#selM{
+	
+	padding-left: 0px;
+	height: 30px;
+
+	width:60px;
+	font-size: 15px;
+}
+
+#selA{
+	
+	padding-left: 0px;
+	height: 30px;
+	width:70px;
+	font-size: 15px;
+}
+
+
+
+
+#regis{
+	padding-right: 250px;
+	line-height: 0px;
+	font-size: 12px;
+
+
+}
+#mujer{
+	font-size: 20px;
+	margin: 0px;
+	padding-top: 20px;
+	font-family: Arial;
+}
+
+#hombre{
+	font-size: 20px;
+	margin: 0px;
+	padding-top: 20px;
+	margin-left: 7px;
+	font-family: Arial;
+}
+
+#p1{
+	padding-top: 10px;
+	line-height: 5px;
+	font-size: 12px;
+	color: #777;
+}
+
+#p2{
+	line-height: 0px;
+	font-size: 12px;
+	color: #777;
+}
+
+#p3{
+	padding-top: 3px;
+	line-height: 0px;
+	font-size: 12px;
+	color: #777;
+}
+
+
+#p4{
+	padding-top: 3px;
+	line-height: 0px;
+	font-size: 12px;
+	color: #777;
+}
+
+
+#reg{
+	width: 200px;
+	height: 40px;
+	font-family: calibri;
+	font-size: 25px;
+	color: white;
+	border: 0px;
+	background-color: green;
+	border-radius: 3px;
+	cursor: pointer;
+
+}
+
+
+#p5{
+	line-height: 0px;
+	font-family: Arial;
+	font-size: 15px;
+	color: #666;
+}
+
+
+#p6{
+	padding-top: 0px;
+	line-height: 0px;
+	font-family: Arial;
+	font-size: 15px;
+	color: #777;
+}
+
